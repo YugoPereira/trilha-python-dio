@@ -116,6 +116,6 @@ Marque conforme for concluindo cada módulo:
 
 <div align="center">
 
-Feito com 💛 durante os estudos na trilha de Python da **DIO**.
+Estudos na trilha de Python da **DIO**.
 
 </div>
