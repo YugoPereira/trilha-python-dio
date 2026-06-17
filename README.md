@@ -91,8 +91,8 @@ python nome_do_arquivo.py
 
 Marque conforme for concluindo cada módulo:
 
-- [ ] 00 - Fundamentos
-- [ ] 01 - Estrutura de dados
+- [X] 00 - Fundamentos
+- [X] 01 - Estrutura de dados
 - [ ] 02 - Programação Orientada a Objetos
 - [ ] 03 - Decoradores, Iteradores e Geradores
 - [ ] 04 - Data e hora
